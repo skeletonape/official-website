@@ -1,0 +1,28 @@
+{
+"name": "Skeleton Ape",
+"description": "The Skeleton Ape are unique digital collectibles that live on the Polygon blockchain. Your Skeleton Ape doubles as DAO governance credential and grants exclusive benefits. Visit https://www.skeletonape.com for more details.",
+"image": "https://ipfs.io/ipfs/QmW4RCqTFaxxdcwp8fP8YvKCwucQyZScXBQpERyq2W6QuN/public/token/1282.png",
+"background_color": "fb9700",
+"attributes": [
+{
+"trait_type": "Cap",
+"value": "Irish Boho"
+},
+{
+"trait_type": "Clothes",
+"value": "Toga"
+},
+{
+"trait_type": "Eye",
+"value": "Flames"
+},
+{
+"trait_type": "Face",
+"value": "Grin"
+},
+{
+"trait_type": "Hair",
+"value": "Brown"
+}
+]
+}
